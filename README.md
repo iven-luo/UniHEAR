@@ -1,7 +1,7 @@
 <div align="center">
-<h1>
+<h2>
 UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
-</h1>
+</h2>
 </div>
 
 <div align="center">
