@@ -1,11 +1,16 @@
 <div align="center">
-  <h2>UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
 
-  (ACM MM 2026)
-  </h2>
-   
-</div>
+<h1>
+UniHEAR: Unified Heterogeneous-Source Attentive Retrieval<br>
+for Knowledge-Based Visual Question Answering
+</h1>
+
+<h3>
+ACM MM 2026
+</h3>
 
 <p>
-  🚀 Code and models will be released soon. Stay tuned!
+🚀 Code and models will be released soon. Stay tuned!
 </p>
+
+</div>
