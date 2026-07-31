@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
+  <h2>UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
 
   (ACM MM 2026)
-  </h1>
+  </h2>
    
 </div>
 
