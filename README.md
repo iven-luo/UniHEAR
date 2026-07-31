@@ -1,11 +1,11 @@
 <div align="center">
 <h1>
-UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based VQA
+UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
 </h1>
 </div>
 
 <div align="center">
-  
+
 [![Conference](https://img.shields.io/badge/ACM%20MM-2026-blue)](https://github.com/iven-luo/UniHEAR)
 </div>
 
