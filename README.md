@@ -1,6 +1,7 @@
 <div align="center">
 <h2>
-UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
+UniHEAR: Unified Heterogeneous-Source Attentive Retrieval<br>
+for Knowledge-Based Visual Question Answering
 </h2>
 </div>
 
